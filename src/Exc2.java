@@ -3,7 +3,7 @@
 public class Exc2 {
 
     public static void main(String[] args) {
-        int[] n = new int[]{5, 3, 15, 60, 12, 70};
+        int[] n = new int[]{5, 3, 15, 90, 12, 70};
         int maxim = n[0];
 
 
