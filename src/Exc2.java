@@ -3,15 +3,16 @@
 public class Exc2 {
 
     public static void main(String[] args) {
-        int[] n = new int[]{5, 3, 15, 6, 12, 5};
-        int maxim = 0;
+        int[] n = new int[]{5, 3, 15, 60, 12, 70};
+        int maxim = n[0];
 
 
         for (int x = 1; x<n.length;x++){
 
-           int maximCheck = n[x-1];
-            if (maximCheck>n[x]){
-                maxim = n[x-1];
+
+
+            if (maxim<n[x]){
+                maxim = n[x];
             }
 
         }
