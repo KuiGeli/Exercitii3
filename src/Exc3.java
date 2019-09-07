@@ -30,7 +30,9 @@ public class Exc3 {
                 }
             } else {
                 System.out.println("Win! Your number matches the random number. Random number " + randomNum);
+                break;
             }
+
         }
         if (number < randomNum || number > randomNum){
             System.out.println("The number was: " + randomNum);
