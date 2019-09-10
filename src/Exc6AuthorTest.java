@@ -6,6 +6,15 @@ public class Exc6AuthorTest {
 
         System.out.println(author);
 
+        author.setEmail("new_Email@gmail.com");
+        author.setGender('F');
+        author.setName("Jessica");
+
+        System.out.println(author.getEmail());
+        System.out.println(author.getGender());
+        System.out.println(author.getName());
+
+
     }
 
 
