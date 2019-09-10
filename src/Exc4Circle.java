@@ -4,18 +4,23 @@ public class Exc4Circle {
     private String color = "red";
 
 
-    public Exc4Circle (double newRadius){
+    public Exc4Circle(double newRadius)
+    {
         this.radius = newRadius;
     }
-    public Exc4Circle(String newColor){
+
+    public Exc4Circle(String newColor)
+    {
         this.color = newColor;
     }
 
-    public double getRadius() {
+    public double getRadius()
+    {
         return radius;
     }
 
-    public String getColor() {
+    public String getColor()
+    {
         return color;
     }
 }

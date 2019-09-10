@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac5b90e0-b8b1-418a-8719-3f87a213fe2b" name="Default Changelist" comment="" />
+    <list default="true" id="ac5b90e0-b8b1-418a-8719-3f87a213fe2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc4Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc4Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc5Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc5Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc5TestRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc5TestRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc6Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc6Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc6AuthorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc6AuthorTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

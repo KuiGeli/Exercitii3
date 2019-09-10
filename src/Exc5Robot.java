@@ -18,5 +18,4 @@ public class Exc5Robot {
         return String.valueOf(position);
     }
 
-
 }

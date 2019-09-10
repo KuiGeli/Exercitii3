@@ -11,12 +11,12 @@ public class Exc1 {
 
         for (i = number1; i <= number2; i++) {
             int flag = 0;
-        for (int k = 2; k<i; k++){
-            if (i%k == 0){
-                flag =+ 1;
+            for (int k = 2; k < i; k++) {
+                if (i % k == 0) {
+                    flag = +1;
+                }
             }
-        }
-            if (flag == 0){
+            if (flag == 0) {
                 System.out.println(i + " is prime");
                 numberOfPrimes++;
 

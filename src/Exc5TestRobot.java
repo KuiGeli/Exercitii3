@@ -7,7 +7,6 @@ public class Exc5TestRobot {
 
         System.out.println(robo);
 
-
     }
 
 }

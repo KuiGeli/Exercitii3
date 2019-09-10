@@ -5,13 +5,13 @@ public class Exc6Author {
     private String email = "Jordan.P@whateve.com";
 
 
-    public Exc6Author(String newName, char newGender, String newEmail){
+    public Exc6Author(String newName, char newGender, String newEmail) {
         this.name = newName;
         this.gender = newGender;
         this.email = newEmail;
     }
 
-    public String toString(){
+    public String toString() {
         return name + "(" + gender + ") at " + email;
     }
 
