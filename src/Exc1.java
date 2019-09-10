@@ -4,26 +4,22 @@ public class Exc1 {
 
         int number1 = 15;
         int number2 = 20;
-        int primeCheck;
 
-        for (int i = number1; i < number2; ) {
+        int flag = 0;
 
-            int dividingNumbers = 2;
+        int i;
 
+        for (i = number1; i <= number2; i++) {
 
-            while (dividingNumbers < 10) {
-                int b = 1;
-
-                primeCheck = i % dividingNumbers;
-                if (primeCheck != 0) {
-                    System.out.println(i + " is prime");
-                    dividingNumbers++;
-                    b++;
-                }
+        for (int k = 2; k<i; k++){
+            if (i%k == 0){
+                flag =+ 1;
             }
-            i++;
-
-
+        }
+            if (flag == 0){
+                System.out.println(i);
+                System.out.println(flag);
+            }
         }
 
 
