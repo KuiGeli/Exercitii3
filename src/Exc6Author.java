@@ -11,6 +11,11 @@ public class Exc6Author {
         this.email = newEmail;
     }
 
+    public String toString(){
+        return name + "(" + gender + ") at " + email;
+    }
+
+
     public String getName() {
         return name;
     }

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5b90e0-b8b1-418a-8719-3f87a213fe2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exc6AuthorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercitii3/.gitIgnore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercitii3/Exc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercitii3/Exc1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercitii3/Exc6Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercitii3/Exc6Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exc6Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exc6Author.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +39,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exc1">
+  <component name="RunManager" selected="Application.Exc6AuthorTest">
     <configuration name="Exc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exc1" />
-      <module name="Exercitii3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exc2" />
       <module name="Exercitii3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exc6AuthorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exc6AuthorTest" />
+      <module name="Exercitii3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exc6AuthorTest" />
         <item itemvalue="Application.Exc1" />
         <item itemvalue="Application.Exc5TestRobot" />
         <item itemvalue="Application.Exc4TestCircle" />
         <item itemvalue="Application.Exc3" />
-        <item itemvalue="Application.Exc2" />
       </list>
     </recent_temporary>
   </component>
